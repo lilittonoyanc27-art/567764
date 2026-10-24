@@ -1,0 +1,6 @@
+{
+  "name": "Español para futbolistas - Իսպաներեն ֆուտբոլիստների համար",
+  "description": "Իսպաներենի ինտերակտիվ ուսուցում ֆուտբոլիստների համար՝ մարզչի հրահանգներ, թիմակիցների հետ շփում, արագ արձագանքներ և խաղային երկխոսություններ։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
